@@ -2,7 +2,7 @@
 
 <h1> Selenium Bot to extract Walmart product reviews </h1>
 
-Add product links in python script or used csv file and de quoate file reader 
+Add product links in python script or use csv file and de quoate file reader 
 
 output is saved as 
 
